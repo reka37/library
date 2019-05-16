@@ -1,0 +1,55 @@
+form  {
+	 width: 30%;
+	 margin: 100px auto 20px;
+	 border: 1px solid #3FB8F9;
+	 border-radius: 7px;
+}
+
+form  h3 {	 
+	 color: #369DD5;
+}
+
+form {
+	 text-align: center;
+}
+
+ form  input {
+	/* margin: 5px 0 15px 0;*/
+	 color: #256B91;
+	 border: 1px solid #c9c9c9;
+	 padding: 3px 4px;
+}
+
+form  input:focus {
+	 border: 1px solid #153D53;
+}
+
+
+ form  input[type = "submit"] {
+	/* width: 120px;*/
+	 padding: 4px;
+	 cursor: pointer;
+}
+
+form  input[type = "submit"]:hover  {
+	 background: #D3D3D3;
+}
+
+.head_table {
+	background: pink;
+}
+.cursor{
+	cursor:pointer;
+}
+.cursor:hover{
+	color:red;
+}
+.head {
+	background:lightblue
+}
+.err {
+	color: red;
+}
+.succ {
+	color: green;
+}
